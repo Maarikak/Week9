@@ -1,0 +1,14 @@
+C:\Users\Maarika\source\repos\harjutus\harjutus\Week9_Readingfromfile\Week9_Readingfromfile\bin\Debug\net6.0\Week9_Readingfromfile.exe
+C:\Users\Maarika\source\repos\harjutus\harjutus\Week9_Readingfromfile\Week9_Readingfromfile\bin\Debug\net6.0\Week9_Readingfromfile.deps.json
+C:\Users\Maarika\source\repos\harjutus\harjutus\Week9_Readingfromfile\Week9_Readingfromfile\bin\Debug\net6.0\Week9_Readingfromfile.runtimeconfig.json
+C:\Users\Maarika\source\repos\harjutus\harjutus\Week9_Readingfromfile\Week9_Readingfromfile\bin\Debug\net6.0\Week9_Readingfromfile.dll
+C:\Users\Maarika\source\repos\harjutus\harjutus\Week9_Readingfromfile\Week9_Readingfromfile\bin\Debug\net6.0\Week9_Readingfromfile.pdb
+C:\Users\Maarika\source\repos\harjutus\harjutus\Week9_Readingfromfile\Week9_Readingfromfile\obj\Debug\net6.0\Week9_Readingfromfile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maarika\source\repos\harjutus\harjutus\Week9_Readingfromfile\Week9_Readingfromfile\obj\Debug\net6.0\Week9_Readingfromfile.AssemblyInfoInputs.cache
+C:\Users\Maarika\source\repos\harjutus\harjutus\Week9_Readingfromfile\Week9_Readingfromfile\obj\Debug\net6.0\Week9_Readingfromfile.AssemblyInfo.cs
+C:\Users\Maarika\source\repos\harjutus\harjutus\Week9_Readingfromfile\Week9_Readingfromfile\obj\Debug\net6.0\Week9_Readingfromfile.csproj.CoreCompileInputs.cache
+C:\Users\Maarika\source\repos\harjutus\harjutus\Week9_Readingfromfile\Week9_Readingfromfile\obj\Debug\net6.0\Week9_Readingfromfile.dll
+C:\Users\Maarika\source\repos\harjutus\harjutus\Week9_Readingfromfile\Week9_Readingfromfile\obj\Debug\net6.0\refint\Week9_Readingfromfile.dll
+C:\Users\Maarika\source\repos\harjutus\harjutus\Week9_Readingfromfile\Week9_Readingfromfile\obj\Debug\net6.0\Week9_Readingfromfile.pdb
+C:\Users\Maarika\source\repos\harjutus\harjutus\Week9_Readingfromfile\Week9_Readingfromfile\obj\Debug\net6.0\Week9_Readingfromfile.genruntimeconfig.cache
+C:\Users\Maarika\source\repos\harjutus\harjutus\Week9_Readingfromfile\Week9_Readingfromfile\obj\Debug\net6.0\ref\Week9_Readingfromfile.dll
